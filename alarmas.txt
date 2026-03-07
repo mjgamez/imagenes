@@ -1,3 +1,3 @@
-1, Me tomo el café, al1
-1, Enciendo el ordenador, al2
-2, Me pongo a trabajar, al3
+4, Me tomo el café, al1
+5, Enciendo el ordenador, al2
+7, Me pongo a trabajar, al3
